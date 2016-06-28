@@ -1,6 +1,6 @@
 {
   "name": "koa.io",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "realtime web framework combine koa and socket.io",
   "main": "lib/application.js",
   "scripts": {
@@ -25,11 +25,16 @@
       "name": "Ari Porad",
       "email": "npm@ariporad.com",
       "url": "http://ariporad.com"
+    },
+    {
+      "name": "Uni",
+      "email": "unibtc@gmail.com",
+      "url": "http://github.com/uniibu"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:koajs/koa.io"
+    "url": "https://github.com/5qu4r3/koa.io.git"
   },
   "license": "MIT",
   "dependencies": {
@@ -64,6 +69,6 @@
     "supertest": "1.1.0"
   },
   "engine": {
-    "node": ">=0.11"
+   "node": ">= 4"
   }
 }
